@@ -1,0 +1,7 @@
+.Net Framework = class library + runtime(CLR)
+Code Blocks - Opening and closing curly braces {} . Typically they have names and purposes. Code is arranged in blocks.
+Main - The first method that executes when a program is run.
+class - Container for all methods of your application. We typically put related methods in a class.
+namespace - Typically the name of the application (project). To organize our code!
+. - member accessor
+Solution - Holds one or more related projects
