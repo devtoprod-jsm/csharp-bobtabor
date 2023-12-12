@@ -5,3 +5,9 @@ class - Container for all methods of your application. We typically put related 
 namespace - Typically the name of the application (project). To organize our code!
 . - member accessor
 Solution - Holds one or more related projects
+// Single line comment
+/*
+Multi
+line
+comment
+*/
