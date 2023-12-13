@@ -11,3 +11,11 @@ Multi
 line
 comment
 */
+
+Statement = one or more expression(s)
+expression = one or more operators or operands
+operand = noun
+operator = verb
+built-in operators
+ex: + , = , == , && . etc...
+
